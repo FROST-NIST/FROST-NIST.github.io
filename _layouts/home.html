@@ -12,12 +12,12 @@ The <a href="#team_overview">FROST team</a> is currently writing a specification
 <div class="row">
   <div class="col">
     <h2 class="text-body-emphasis">Introduction</h2>
-    {{ page.introduction }}
+    {{ page.introduction | markdownify }}
     <h2 class="text-body-emphasis">Scientific Background</h2>
-    {{ page.scientific_background }}
+    {{ page.scientific_background | markdownify }}
     <h2 class="text-body-emphasis">Performance Overview</h2>
-    {{ page.performance_overview }}
+    {{ page.performance_overview | markdownify }}
     <a name="team_overview"><h2 class="text-body-emphasis">Team</h2></a>
-    {{ page.team_overview }}
+    {{ page.team_overview | markdownify }}
   </div>
 </div>
