@@ -24,7 +24,6 @@ scientific_background: |
   However, a malicious coordinator can only prevent the generation of signatures;
   it does not impact the unforgeability.
 
-performance_overview: This is an interesting performance overview
 team_overview: |
   The FROST NIST submission team is as follows.
 
