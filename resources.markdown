@@ -10,8 +10,11 @@ layout: page
 
 # Talks
 
--  [Elizabeth Crites, Chelsea Komlo, and Tim Ruffing on FROST and MuSig2](https://m.youtube.com/watch?v=-d0Ny7NAG-w&list=PLeeS-3Ml-rpo-pbh8LIhb8VscM_q5OaSE&index=15&pp=iAQB) at
+- [Elizabeth Crites, Chelsea Komlo, and Tim Ruffing on FROST and MuSig2](https://m.youtube.com/watch?v=-d0Ny7NAG-w&list=PLeeS-3Ml-rpo-pbh8LIhb8VscM_q5OaSE&index=15&pp=iAQB) at
    Real World Cryptography, 2023
+
+A
+- [Elizabeth Crites and Chenzhi Zhu on FROST security](https://www.youtube.com/watch?v=1Zgq82zGULo) at CRYPTO 2022.
 
 - [Ian Goldberg on FROST](https://www.youtube.com/watch?v=tKR4QKhmXXI) at the Fields Institute, 2022
 
