@@ -15,4 +15,4 @@ layout: page
 
 - [Ian Goldberg on FROST](https://www.youtube.com/watch?v=tKR4QKhmXXI) at the Fields Institute, 2022
 
-- [Chelsea Komlo on FROST]{https://csrc.nist.gov/events/2020/MPTS2020} at NIST, 2020
+- [Chelsea Komlo on FROST](https://csrc.nist.gov/events/2020/MPTS2020) at NIST, 2020
