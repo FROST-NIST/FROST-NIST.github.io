@@ -3,8 +3,7 @@ layout: home
 introduction: |
   FROST is the Flexible Round-Optimized Schnorr Threshold signature scheme,
 and is a two-round threshold Schnorr signature scheme.
-The <a href="#team_overview">FROST team</a> is currently writing a specification for FROST for the <a href="https://csrc.nist.gov/projects/threshold-cryptography" target="_blank">
- NIST Call for Threshold Schemes</a>.</p>
+The FROST team is currently writing a specification for FROST for the  [NIST Call for Threshold Schemes](https://csrc.nist.gov/projects/threshold-cryptography" target="_blank).
 
   FROST reduces network overhead during signing operations while protecting against forgery attacks applicable to prior similar threshold and multisignature constructions.
   FROST can be safely used without limiting concurrency of signing operations yet allows for true threshold signing, as only a threshold number of participants are required for signing operations.
